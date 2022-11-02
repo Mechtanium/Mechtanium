@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![](https://visitcount.itsvg.in/api?id=Mechtanium&label=Profile%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Mechtanium/Mechtanium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
