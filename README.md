@@ -55,8 +55,8 @@ I’m an energy & petroleum engineer turned AI-practitioner and educator who bui
 ---
 
 ## 📊 GitHub Stats
-[![Mechtanium’s GitHub stats](https://stats-mechtaniums-projects.vercel.app/api?username=Mechtanium&show_icons=true&theme=radical)](https://github.com/Mechtanium/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mechtanium&layout=compact&theme=radical)](https://github.com/Mechtanium/github-readme-stats)
+[![Mechtanium’s GitHub stats](https://stats-five-lake.vercel.app/api?username=Mechtanium&show_icons=true&theme=radical)](https://github.com/Mechtanium/github-readme-stats)  
+[![Top Langs](https://stats-five-lake.vercel.app/api/top-langs/?username=Mechtanium&layout=compact&theme=radical)](https://github.com/Mechtanium/github-readme-stats)
 
 ---
 
